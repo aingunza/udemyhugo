@@ -1,2 +1,2 @@
 # udemyhugo
-#Curso gratuito de Udemy con HUGO Framework
+Curso gratuito de Udemy con HUGO Framework
